@@ -1,1 +1,1 @@
-
+The purpose of our application is to implement the given company database schema into a working web application. We want to design a web application that closely resembles a company portal and included practical queries that could be used in the real-life scenario.
